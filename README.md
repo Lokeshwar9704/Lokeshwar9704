@@ -1,63 +1,67 @@
 # Hi there 👋 I'm Lokeshwar Reddy 😎
 
-💼 **AI & ML Enthusiast | Software Developer | Cloud Computing | Problem Solver**
+💼 **Aspiring Junior Data Engineer | AWS Cloud | Python | SQL | AI & ML Enthusiast | Software Developer**
 
-Passionate about leveraging Artificial Intelligence, Machine Learning, and Software Engineering to build efficient, impactful, and scalable solutions. I enjoy continuous learning, solving real-world problems, and developing innovative projects.
+Passionate about building cloud-based data pipelines, developing ETL workflows, and transforming raw data into meaningful insights using AWS, Python, and SQL. Eager to apply my technical skills, learn industry best practices, and contribute to scalable data engineering solutions.
 
 ## 👨‍💻 About Me
 
-🎓 I'm Lokeshwar Reddy, a B.E. student specializing in **Artificial Intelligence and Machine Learning at Jain University, Bengaluru.**  
-💼 **AI & ML Enthusiast | Software Developer | Cloud Computing Enthusiast | Problem Solver**  
-🔬 Focused on developing intelligent applications and scalable solutions using AI, Machine Learning, and Software Engineering.  
-🌱 Currently exploring **Machine Learning, Full-Stack Development, and AWS Cloud Services.**  
-💡 Love solving real-world problems through practical projects, creative thinking, and continuous learning.  
-🤝 Open to collaborations on **AI/ML, Backend Development, Cloud Computing, and Software Engineering** projects.  
-⚡ Fun fact: I enjoy experimenting with new technologies and turning ideas into working applications.
+🎓 I'm **Lokeshwar Reddy**, a B.E. student specializing in AI & ML at **Jain University, Bengaluru**.
+
+☁️ Aspiring **Junior Data Engineer** passionate about cloud computing and data processing.
+
+🔧 Learning and working with **AWS S3, EC2, IAM, AWS Glue, AWS Lambda, and Amazon Redshift**.
+
+🐍 Skilled in Python fundamentals, SQL, and data analysis libraries.
+
+📊 Interested in building ETL pipelines, data transformation workflows, and cloud-based data solutions.
+
+🚀 Hands-on practice with AWS projects involving data storage, data processing, and ETL workflows.
+
+🌱 Currently strengthening my knowledge of **AWS, SQL, Python, PySpark, Azure, and BigQuery**.
+
+🤝 Open to opportunities and collaborations in **Junior Data Engineering, AWS Cloud, and Software Engineering**.
+
+⚡ Passionate about continuous learning and solving real-world problems through technology.
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🤖 AI & Machine Learning
+### Frameworks & Libraries
 
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-102A83?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### ⚙️ Backend Development
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
-### 🌐 Frontend Development
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🗄️ Databases
+### Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
 
+### Cloud & Data Engineering
 
-### 🔧 Tools & Platforms
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![AWS Glue](https://img.shields.io/badge/AWS%20Glue-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 
